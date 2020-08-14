@@ -1,0 +1,12 @@
+name: CPunish
+version: ${project.version}
+main: ctx.cpunish.CPunish
+api-version: 1.16
+load: STARTUP
+authors: [CommanderCortex]
+description: GUI Punish Plugin
+website: https://github.com/CommanderCortex
+commands:
+  punish:
+    description: Punish Gui
+    usage: /punish <Player>
